@@ -1,14 +1,14 @@
-## Founder
+## CEO
 
-Name: [name]
-Role: [role]
+Name: Andrew Popp
+Role: CEO / Founder / Mastermind
 
-## Team Member 1
+## CTO
 
-Name: [name]
-Role: [role]
+Name: Nico Sprenger
+Role: CTO / Master of questions
 
-## Team Member 2
+## CCO
 
-Name: [name]
-Role: [role]
+Name: Daverone
+Role: CCO
